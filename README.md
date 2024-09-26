@@ -7,7 +7,7 @@ menu of careclimatechange.org
 
 ## Demo
 
-[careclimatechange](https://hamedmoradidev.github.io/careclimatechange.org/)
+- [careclimatechange.org](https://hamedmoradidev.github.io/careclimatechange.org/)
 
 ## Authors
 
