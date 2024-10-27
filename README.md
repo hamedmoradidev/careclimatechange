@@ -1,13 +1,13 @@
-# careclimatechange.org
+# careclimatechange
 
 
 
-menu of careclimatechange.org
+menu of careclimatechange
 
 
 ## Demo
 
-- [careclimatechange.org](https://hamedmoradidev.github.io/careclimatechange.org/)
+- [careclimatechange](https://hamedmoradidev.github.io/careclimatechange/)
 
 ## Authors
 
